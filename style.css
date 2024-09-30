@@ -340,7 +340,7 @@ p{
 }
 /* footer sections */
 .footer{
-    padding:5rem;
+    padding:3rem;
 }
 .bg-dark{
     background-color: var(--dark-color);
